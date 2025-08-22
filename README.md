@@ -7,4 +7,4 @@ Kullanıcı butona bastığında numarasını bot ile paylaşır.
 
 Heroku’da direkt deploy etmek için aşağıdaki butona tıkla 👇
 
-https://heroku.com/deploy?template=https://github.com/Iregullar/numaraalma
+https://heroku.com/deploy?template=https://github.com/Iregullar/numaraalmabotu
