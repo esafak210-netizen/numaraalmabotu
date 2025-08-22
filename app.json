@@ -1,0 +1,19 @@
+{
+  "name": "Telegram Numara Bot",
+  "description": "Kullanıcıdan numara alan basit Telegram botu",
+  "repository": "https://github.com/Iregullar/numaraalma/telegram-bot",
+  "keywords": ["telegram", "bot", "aiogram"],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "5100119219:AAF6STqGJUiQOUsE5HziYB6blQR2V4nVBBc",
+      "required": true
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "addons": []
+}
